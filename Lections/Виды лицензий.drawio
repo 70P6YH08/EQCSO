@@ -1,0 +1,67 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Страница — 1" id="dAvom4cW4IFe3MhoStIP">
+    <mxGraphModel dx="1277" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pZpa32CHtXirOkpFowgz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="pZpa32CHtXirOkpFowgz-1" target="pZpa32CHtXirOkpFowgz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="pZpa32CHtXirOkpFowgz-1" target="pZpa32CHtXirOkpFowgz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-1" value="Лицензии ПО" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-2" value="Поприетарные" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-3" value="Открытые&lt;span style=&quot;background-color: initial;&quot;&gt;/свободные (open-source)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;- Установка на конкретное число устройств&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- Ограниченное число пользователей&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- Запрет на передачу копий&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- Ограничение на изменение программы&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- Отдельные условия для личного и комменрческого использования&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="220" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-8" value="EULA - End User License Agreement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="330" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-9" value="Бессрочная" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-10" value="Подписка (временная)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-11" value="OEM (вместе с аппаратным)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-12" value="Корпоративная" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-13" value="Пробная, условно бесплатная" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-14" value="Бесплатное" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-16" value="Разрешительные" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-17" value="MIT license&lt;div&gt;BSD LICENSE&lt;/div&gt;&lt;div&gt;Apache License 2.0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="303" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-18" value="Copyleft" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-19" value="GNU GPL&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;GNU LGPL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MPL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;GNU AGPL&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-20" value="Двойное лицензирование" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="680" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZpa32CHtXirOkpFowgz-22" value="Общественное достояние&lt;div&gt;(CC0 (обычно для художества), Unlicense)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="770" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
