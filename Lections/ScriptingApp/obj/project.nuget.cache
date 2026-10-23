@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yiwjT4PQCGc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\221\\Students\\ispp-31\\ОКФКС\\Lections\\ScriptingApp\\ScriptingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\anglesharp\\1.8.5\\anglesharp.1.8.5.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.codeanalysis.analyzers\\5.9.0-1.26328.17\\microsoft.codeanalysis.analyzers.5.9.0-1.26328.17.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.codeanalysis.common\\5.9.0\\microsoft.codeanalysis.common.5.9.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.codeanalysis.csharp\\5.9.0\\microsoft.codeanalysis.csharp.5.9.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.codeanalysis.csharp.scripting\\5.9.0\\microsoft.codeanalysis.csharp.scripting.5.9.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.codeanalysis.scripting.common\\5.9.0\\microsoft.codeanalysis.scripting.common.5.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
