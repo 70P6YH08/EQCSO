@@ -24,10 +24,10 @@ namespace ProductService
             app.UseEndpoints(endpoints =>
             {
                 // Проверка доступности сервиса
-                endpoints.MapGet("/api/products/isAlive", () => "Welcome to Product Service!");
+                endpoints.MapGet("/api/orders/isAlive", () => "Welcome to Product Service!");
 
                 // Получение всех продуктов
-                endpoints.MapGet("/api/products/list", async (ProductServiceDbContext db) =>
+                endpoints.MapGet("/api/orders/list", async (ProductServiceDbContext db) =>
                 {
                     try
                     {

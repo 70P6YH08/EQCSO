@@ -8,11 +8,13 @@ services:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
     ports:
-      - "5000:8080"  
+      - "5000:8080"
     depends_on:
       - productservice
+      - orderservice
     links:
       - productservice
+      - orderservice
     networks:
       - net
 
@@ -74,12 +76,13 @@ services:
       - orderdb:/var/lib/mysql
       - ./orders_init.sql:/docker-entrypoint-initdb.d/orders_init.sql:ro
     ports:
-      - "3306:3306"  
+      - "3306:3307"  
     networks:
       - net
 
 volumes:
   productdb:
+  orderdb:
 
 networks:
   net:

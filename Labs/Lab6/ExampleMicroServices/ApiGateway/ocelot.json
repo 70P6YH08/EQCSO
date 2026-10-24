@@ -16,7 +16,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "orderservice",
-          "Port": 8081
+          "Port": 8080
         }
       ],
       "UpstreamPathTemplate": "/orders/{everything}",
