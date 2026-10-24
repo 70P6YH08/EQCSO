@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab4\\Lab4Task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7E8747A-7873-F1BA-CE4E-4D9BF94361BA}|Lab4Task3\\Lab4Task3.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\eqcso\\labs\\lab4\\lab4task2\\lab4task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E8747A-7873-F1BA-CE4E-4D9BF94361BA}|Lab4Task3\\Lab4Task3.csproj|solutionrelative:lab4task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A062CBE5-9EE0-C40C-9511-31162EF665FC}|Lab4Task2\\Lab4Task2.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\eqcso\\labs\\lab4\\lab4task2\\lab4task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A062CBE5-9EE0-C40C-9511-31162EF665FC}|Lab4Task2\\Lab4Task2.csproj|solutionrelative:lab4task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8747A-7873-F1BA-CE4E-4D9BF94361BA}|Lab4Task3\\Lab4Task3.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\eqcso\\labs\\lab4\\lab4task2\\lab4task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8747A-7873-F1BA-CE4E-4D9BF94361BA}|Lab4Task3\\Lab4Task3.csproj|solutionrelative:lab4task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,28 +54,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab4\\Lab4Task2\\Lab4Task3\\Program.cs",
               "RelativeDocumentMoniker": "Lab4Task3\\Program.cs",
               "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab4\\Lab4Task2\\Lab4Task3\\Program.cs",
               "RelativeToolTip": "Lab4Task3\\Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAwwEMAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T13:53:35.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab4\\Lab4Task2\\Lab4Task2\\Program.cs",
               "RelativeDocumentMoniker": "Lab4Task2\\Program.cs",
               "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab4\\Lab4Task2\\Lab4Task2\\Program.cs",
               "RelativeToolTip": "Lab4Task2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T10:34:35.393Z"
+              "WhenOpened": "2026-10-04T10:34:35.393Z",
+              "EditorCaption": ""
             }
           ]
         }
