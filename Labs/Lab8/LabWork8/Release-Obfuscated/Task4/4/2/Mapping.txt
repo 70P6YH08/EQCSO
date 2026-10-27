@@ -1,0 +1,25 @@
+Renamed Types:
+
+[Task1]World.Person -> [Task1]A.a
+{
+
+	[Task1]World.Person::PrintHello[0]( ) skipped:  method rule in configuration
+	[Task1]World.Person::.ctor[0]( ) skipped:  special name
+
+	System.String [Task1]System.String World.Person::_name -> A
+}
+
+[Task1]Program -> [Task1]A.A
+{
+	[Task1]Program::<Main>$[1]( [System.Runtime]System.String[] ) -> A
+
+	[Task1]Program::.ctor[0]( ) skipped:  special name
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+

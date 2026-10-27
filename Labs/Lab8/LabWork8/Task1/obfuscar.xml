@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Obfuscator>
+	<Var name="InPath" value="Task1\bin\Debug\net10.0" />
+	<Var name="OutPath" value="Release-Obfuscated\Task4\4\3" />
+	<Var name="KeepPublicApi" value="false"/>
+	<Var name="HidePrivateApi" value="true" />
+	<Var name="HideStrings" value="false" />
+	<Module file="$(InPath)\Task1.dll">
+		<SkipField type="World.Person" name="_name"/>
+	</Module>
+</Obfuscator>

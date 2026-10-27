@@ -1,0 +1,16 @@
+Renamed Types:
+
+[Task1]Program -> [Task1]돭.돭
+{
+	[Task1]Program::<Main>$[1]( [System.Runtime]System.String[] ) -> 돭
+
+	[Task1]Program::.ctor[0]( ) skipped:  special name
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+
