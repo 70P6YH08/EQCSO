@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D381A54C-AE8B-422C-B7DF-8639EB12FCF2}|Task2_4\\Task2_4.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab7\\labwork7\\task2_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D381A54C-AE8B-422C-B7DF-8639EB12FCF2}|Task2_4\\Task2_4.csproj|solutionrelative:task2_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DA2136-0A52-4A3B-A618-34BDA2CD5308}|Task2_3\\Task2_3.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab7\\labwork7\\task2_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DA2136-0A52-4A3B-A618-34BDA2CD5308}|Task2_3\\Task2_3.csproj|solutionrelative:task2_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E92654B-863C-4438-B56F-C5A46D0690A7}|LabWork7\\LabWork7.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab7\\labwork7\\labwork7\\scriptinghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E92654B-863C-4438-B56F-C5A46D0690A7}|LabWork7\\LabWork7.csproj|solutionrelative:labwork7\\scriptinghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E92654B-863C-4438-B56F-C5A46D0690A7}|LabWork7\\LabWork7.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab7\\labwork7\\labwork7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E92654B-863C-4438-B56F-C5A46D0690A7}|LabWork7\\LabWork7.csproj|solutionrelative:labwork7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E92654B-863C-4438-B56F-C5A46D0690A7}|LabWork7\\LabWork7.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab7\\labwork7\\labwork7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E92654B-863C-4438-B56F-C5A46D0690A7}|LabWork7\\LabWork7.csproj|solutionrelative:labwork7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E92654B-863C-4438-B56F-C5A46D0690A7}|LabWork7\\LabWork7.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab7\\labwork7\\labwork7\\automation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E92654B-863C-4438-B56F-C5A46D0690A7}|LabWork7\\LabWork7.csproj|solutionrelative:labwork7\\automation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\Task2_4\\Program.cs",
+              "RelativeDocumentMoniker": "Task2_4\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\Task2_4\\Program.cs*",
+              "RelativeToolTip": "Task2_4\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T07:02:46.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\Task2_3\\Program.cs",
+              "RelativeDocumentMoniker": "Task2_3\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\Task2_3\\Program.cs",
+              "RelativeToolTip": "Task2_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T06:42:19.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScriptingHost.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\LabWork7\\ScriptingHost.cs",
+              "RelativeDocumentMoniker": "LabWork7\\ScriptingHost.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\LabWork7\\ScriptingHost.cs",
+              "RelativeToolTip": "LabWork7\\ScriptingHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:47:27.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Automation.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\LabWork7\\Automation.cs",
+              "RelativeDocumentMoniker": "LabWork7\\Automation.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\LabWork7\\Automation.cs",
+              "RelativeToolTip": "LabWork7\\Automation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:44:15.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\LabWork7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork7\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\LabWork7\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork7\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-30T05:42:47.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\LabWork7\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork7\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab7\\LabWork7\\LabWork7\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork7\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:42:44.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

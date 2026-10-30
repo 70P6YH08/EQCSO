@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "Task2_3\\Task2_3.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Task2_4\\Task2_4.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
