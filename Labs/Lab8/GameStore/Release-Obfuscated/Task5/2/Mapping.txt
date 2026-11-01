@@ -1,0 +1,319 @@
+Renamed Types:
+
+[GameStore]Program/<>c -> [GameStore]Program/A
+{
+	[GameStore]Program/<>c::<Main>b__0_0[1]( [Microsoft.Extensions.DependencyInjection.Abstractions]Microsoft.Extensions.DependencyInjection.IServiceCollection ) -> A
+
+	[GameStore]Program/<>c::.cctor[0]( ) skipped:  special name
+	[GameStore]Program/<>c::.ctor[0]( ) skipped:  special name
+
+	Program/<>c [GameStore]Program/<>c Program/<>c::<>9 -> A
+	System.Action`1<Microsoft.Extensions.DependencyInjection.IServiceCollection> [GameStore]System.Action`1<Microsoft.Extensions.DependencyInjection.IServiceCollection> Program/<>c::<>9__0_0 -> A
+}
+
+[GameStore]GameStore.MainWindow/<>c -> [GameStore]GameStore.MainWindow/A
+{
+	[GameStore]GameStore.MainWindow/<>c::<.ctor>b__0_0[2]( [System.Runtime]System.Object, [GameStore]GameStore.MessageEventArgs ) -> A
+
+	[GameStore]GameStore.MainWindow/<>c::.cctor[0]( ) skipped:  special name
+	[GameStore]GameStore.MainWindow/<>c::.ctor[0]( ) skipped:  special name
+
+	GameStore.MainWindow/<>c [GameStore]GameStore.MainWindow/<>c GameStore.MainWindow/<>c::<>9 -> A
+	System.EventHandler`1<GameStore.MessageEventArgs> [GameStore]System.EventHandler`1<GameStore.MessageEventArgs> GameStore.MainWindow/<>c::<>9__0_0 -> A
+}
+
+[GameStore]GameStore.ViewModels.MainViewModel/<>c -> [GameStore]GameStore.ViewModels.MainViewModel/A
+{
+	[GameStore]GameStore.ViewModels.MainViewModel/<>c::<get_TotalPrice>b__9_0[1]( [GameStore]GameStore.Models.CartItem ) -> A
+	[GameStore]GameStore.ViewModels.MainViewModel/<>c::<Checkout>b__29_0[1]( [GameStore]GameStore.Models.Key ) -> A
+	[GameStore]GameStore.ViewModels.MainViewModel/<>c::<Checkout>b__29_2[1]( [GameStore]GameStore.Models.Key ) -> a
+
+	[GameStore]GameStore.ViewModels.MainViewModel/<>c::.cctor[0]( ) skipped:  special name
+	[GameStore]GameStore.ViewModels.MainViewModel/<>c::.ctor[0]( ) skipped:  special name
+
+	GameStore.ViewModels.MainViewModel/<>c [GameStore]GameStore.ViewModels.MainViewModel/<>c GameStore.ViewModels.MainViewModel/<>c::<>9 -> A
+	System.Func`2<GameStore.Models.CartItem,System.Decimal> [GameStore]System.Func`2<GameStore.Models.CartItem,System.Decimal> GameStore.ViewModels.MainViewModel/<>c::<>9__9_0 -> A
+	System.Func`2<GameStore.Models.Key,System.Boolean> [GameStore]System.Func`2<GameStore.Models.Key,System.Boolean> GameStore.ViewModels.MainViewModel/<>c::<>9__29_0 -> A
+	System.Action`1<GameStore.Models.Key> [GameStore]System.Action`1<GameStore.Models.Key> GameStore.ViewModels.MainViewModel/<>c::<>9__29_2 -> A
+}
+
+[GameStore]GameStore.ViewModels.MainViewModel/<>c__DisplayClass27_0 -> [GameStore]GameStore.ViewModels.MainViewModel/a
+{
+	[GameStore]GameStore.ViewModels.MainViewModel/<>c__DisplayClass27_0::<AddToCart>b__0[1]( [GameStore]GameStore.Models.CartItem ) -> A
+
+	[GameStore]GameStore.ViewModels.MainViewModel/<>c__DisplayClass27_0::.ctor[0]( ) skipped:  special name
+
+	GameStore.Models.Game [GameStore]GameStore.Models.Game GameStore.ViewModels.MainViewModel/<>c__DisplayClass27_0::game -> A
+}
+
+[GameStore]GameStore.ViewModels.MainViewModel/<>c__DisplayClass28_0 -> [GameStore]GameStore.ViewModels.MainViewModel/B
+{
+	[GameStore]GameStore.ViewModels.MainViewModel/<>c__DisplayClass28_0::<RemoveFromCart>b__0[1]( [GameStore]GameStore.Models.CartItem ) -> A
+
+	[GameStore]GameStore.ViewModels.MainViewModel/<>c__DisplayClass28_0::.ctor[0]( ) skipped:  special name
+
+	GameStore.Models.Game [GameStore]GameStore.Models.Game GameStore.ViewModels.MainViewModel/<>c__DisplayClass28_0::game -> A
+}
+
+[GameStore]GameStore.ViewModels.MainViewModel/<>c__DisplayClass29_0 -> [GameStore]GameStore.ViewModels.MainViewModel/b
+{
+	[GameStore]GameStore.ViewModels.MainViewModel/<>c__DisplayClass29_0::<Checkout>b__1[1]( [GameStore]GameStore.Models.Key ) -> A
+
+	[GameStore]GameStore.ViewModels.MainViewModel/<>c__DisplayClass29_0::.ctor[0]( ) skipped:  special name
+
+	System.Text.StringBuilder [GameStore]System.Text.StringBuilder GameStore.ViewModels.MainViewModel/<>c__DisplayClass29_0::sb -> A
+	System.Action`1<GameStore.Models.Key> [GameStore]System.Action`1<GameStore.Models.Key> GameStore.ViewModels.MainViewModel/<>c__DisplayClass29_0::<>9__1 -> A
+}
+
+[GameStore]GameStore.Models.Game/<>c -> [GameStore]GameStore.Models.Game/A
+{
+	[GameStore]GameStore.Models.Game/<>c::<get_KeyCount>b__21_0[1]( [GameStore]GameStore.Models.Key ) -> A
+
+	[GameStore]GameStore.Models.Game/<>c::.cctor[0]( ) skipped:  special name
+	[GameStore]GameStore.Models.Game/<>c::.ctor[0]( ) skipped:  special name
+
+	GameStore.Models.Game/<>c [GameStore]GameStore.Models.Game/<>c GameStore.Models.Game/<>c::<>9 -> A
+	System.Func`2<GameStore.Models.Key,System.Boolean> [GameStore]System.Func`2<GameStore.Models.Key,System.Boolean> GameStore.Models.Game/<>c::<>9__21_0 -> A
+}
+
+Skipped Types:
+
+[GameStore]GameStore.App skipped:  KeepPublicApi option in configuration
+{
+
+	[GameStore]GameStore.App::.ctor[1]( [GameStore]GameStore.MainWindow ) skipped:  special name
+	[GameStore]GameStore.App::OnStartup[1]( [PresentationFramework]System.Windows.StartupEventArgs ) skipped:  external base class or interface
+
+	GameStore.MainWindow [GameStore]GameStore.MainWindow GameStore.App::mainWindow -> A
+}
+
+[GameStore]GameStore.MainWindow skipped:  KeepPublicApi option in configuration
+{
+	[GameStore]GameStore.MainWindow::System.Windows.Markup.IComponentConnector.Connect[2]( [System.Runtime]System.Int32, [System.Runtime]System.Object ) -> A
+
+	[GameStore]GameStore.MainWindow::.ctor[0]( ) skipped:  special name
+	[GameStore]GameStore.MainWindow::InitializeComponent[0]( ) skipped:  external base class or interface
+
+	System.Boolean [GameStore]System.Boolean GameStore.MainWindow::_contentLoaded -> A
+}
+
+[GameStore]GameStore.MessageEventArgs skipped:  KeepPublicApi option in configuration
+{
+
+	[GameStore]GameStore.MessageEventArgs::get_Message[0]( ) skipped:  skip by property
+	[GameStore]GameStore.MessageEventArgs::set_Message[1]( [System.Runtime]System.String ) skipped:  skip by property
+	[GameStore]GameStore.MessageEventArgs::get_Caption[0]( ) skipped:  skip by property
+	[GameStore]GameStore.MessageEventArgs::set_Caption[1]( [System.Runtime]System.String ) skipped:  skip by property
+	[GameStore]GameStore.MessageEventArgs::get_Button[0]( ) skipped:  skip by property
+	[GameStore]GameStore.MessageEventArgs::set_Button[1]( [PresentationFramework]System.Windows.MessageBoxButton ) skipped:  skip by property
+	[GameStore]GameStore.MessageEventArgs::get_Icon[0]( ) skipped:  skip by property
+	[GameStore]GameStore.MessageEventArgs::set_Icon[1]( [PresentationFramework]System.Windows.MessageBoxImage ) skipped:  skip by property
+	[GameStore]GameStore.MessageEventArgs::.ctor[4]( [System.Runtime]System.String, [System.Runtime]System.String, [PresentationFramework]System.Windows.MessageBoxButton, [PresentationFramework]System.Windows.MessageBoxImage ) skipped:  special name
+
+	System.String [GameStore]System.String GameStore.MessageEventArgs::<Message>k__BackingField -> A
+	System.String [GameStore]System.String GameStore.MessageEventArgs::<Caption>k__BackingField -> a
+	System.Windows.MessageBoxButton [GameStore]System.Windows.MessageBoxButton GameStore.MessageEventArgs::<Button>k__BackingField -> A
+	System.Windows.MessageBoxImage [GameStore]System.Windows.MessageBoxImage GameStore.MessageEventArgs::<Icon>k__BackingField -> A
+
+
+	System.String [GameStore]System.String GameStore.MessageEventArgs::Message skipped:  KeepPublicApi option in configuration
+	System.String [GameStore]System.String GameStore.MessageEventArgs::Caption skipped:  KeepPublicApi option in configuration
+	System.Windows.MessageBoxButton [GameStore]System.Windows.MessageBoxButton GameStore.MessageEventArgs::Button skipped:  KeepPublicApi option in configuration
+	System.Windows.MessageBoxImage [GameStore]System.Windows.MessageBoxImage GameStore.MessageEventArgs::Icon skipped:  KeepPublicApi option in configuration
+}
+
+[GameStore]GameStore.RelayCommand`1 skipped:  KeepPublicApi option in configuration
+{
+
+	[GameStore]GameStore.RelayCommand`1::add_CanExecuteChanged[1]( [System.Runtime]System.EventHandler ) skipped:  skip by event
+	[GameStore]GameStore.RelayCommand`1::remove_CanExecuteChanged[1]( [System.Runtime]System.EventHandler ) skipped:  skip by event
+	[GameStore]GameStore.RelayCommand`1::.ctor[2]( [System.Runtime]System.Action`1<!0>, [System.Runtime]System.Func`2<!0,[System.Runtime]System.Boolean> ) skipped:  special name
+	[GameStore]GameStore.RelayCommand`1::CanExecute[1]( [System.Runtime]System.Object ) skipped:  external base class or interface
+	[GameStore]GameStore.RelayCommand`1::Execute[1]( [System.Runtime]System.Object ) skipped:  external base class or interface
+
+	System.Action`1<T> [GameStore]System.Action`1<T> GameStore.RelayCommand`1::_execute -> A
+	System.Func`2<T,System.Boolean> [GameStore]System.Func`2<T,System.Boolean> GameStore.RelayCommand`1::_canExecute -> A
+	System.EventHandler [GameStore]System.EventHandler GameStore.RelayCommand`1::CanExecuteChanged -> A
+
+
+	System.EventHandler [GameStore]System.EventHandler GameStore.RelayCommand`1::CanExecuteChanged skipped:  KeepPublicApi option in configuration
+}
+
+[GameStore]GameStore.SubmitWindow skipped:  KeepPublicApi option in configuration
+{
+	[GameStore]GameStore.SubmitWindow::System.Windows.Markup.IComponentConnector.Connect[2]( [System.Runtime]System.Int32, [System.Runtime]System.Object ) -> A
+
+	[GameStore]GameStore.SubmitWindow::InitializeComponent[0]( ) skipped:  external base class or interface
+	[GameStore]GameStore.SubmitWindow::.ctor[0]( ) skipped:  special name
+
+	System.Boolean [GameStore]System.Boolean GameStore.SubmitWindow::_contentLoaded -> A
+}
+
+[GameStore]GameStore.ViewModels.ViewModelBase skipped:  KeepPublicApi option in configuration
+{
+
+	[GameStore]GameStore.ViewModels.ViewModelBase::add_PropertyChanged[1]( [System.ObjectModel]System.ComponentModel.PropertyChangedEventHandler ) skipped:  skip by event
+	[GameStore]GameStore.ViewModels.ViewModelBase::remove_PropertyChanged[1]( [System.ObjectModel]System.ComponentModel.PropertyChangedEventHandler ) skipped:  skip by event
+	[GameStore]GameStore.ViewModels.ViewModelBase::add_SendMessage[1]( [System.Runtime]System.EventHandler`1<[GameStore]GameStore.MessageEventArgs> ) skipped:  skip by event
+	[GameStore]GameStore.ViewModels.ViewModelBase::remove_SendMessage[1]( [System.Runtime]System.EventHandler`1<[GameStore]GameStore.MessageEventArgs> ) skipped:  skip by event
+	[GameStore]GameStore.ViewModels.ViewModelBase::OnPropertyChanged[1]( [System.Runtime]System.String ) skipped:  KeepPublicApi option in configuration
+	[GameStore]GameStore.ViewModels.ViewModelBase::OnSendMessage[4]( [System.Runtime]System.String, [System.Runtime]System.String, [PresentationFramework]System.Windows.MessageBoxButton, [PresentationFramework]System.Windows.MessageBoxImage ) skipped:  KeepPublicApi option in configuration
+	[GameStore]GameStore.ViewModels.ViewModelBase::.ctor[0]( ) skipped:  special name
+
+	System.ComponentModel.PropertyChangedEventHandler [GameStore]System.ComponentModel.PropertyChangedEventHandler GameStore.ViewModels.ViewModelBase::PropertyChanged -> A
+	System.EventHandler`1<GameStore.MessageEventArgs> [GameStore]System.EventHandler`1<GameStore.MessageEventArgs> GameStore.ViewModels.ViewModelBase::SendMessage -> A
+
+
+	System.ComponentModel.PropertyChangedEventHandler [GameStore]System.ComponentModel.PropertyChangedEventHandler GameStore.ViewModels.ViewModelBase::PropertyChanged skipped:  KeepPublicApi option in configuration
+	System.EventHandler`1<GameStore.MessageEventArgs> [GameStore]System.EventHandler`1<GameStore.MessageEventArgs> GameStore.ViewModels.ViewModelBase::SendMessage skipped:  KeepPublicApi option in configuration
+}
+
+[GameStore]GameStore.Models.AppDbContext skipped:  KeepPublicApi option in configuration
+{
+
+	[GameStore]GameStore.Models.AppDbContext::get_Games[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.AppDbContext::set_Games[1]( [Microsoft.EntityFrameworkCore]Microsoft.EntityFrameworkCore.DbSet`1<[GameStore]GameStore.Models.Game> ) skipped:  skip by property
+	[GameStore]GameStore.Models.AppDbContext::get_Keys[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.AppDbContext::set_Keys[1]( [Microsoft.EntityFrameworkCore]Microsoft.EntityFrameworkCore.DbSet`1<[GameStore]GameStore.Models.Key> ) skipped:  skip by property
+	[GameStore]GameStore.Models.AppDbContext::.ctor[0]( ) skipped:  special name
+	[GameStore]GameStore.Models.AppDbContext::OnConfiguring[1]( [Microsoft.EntityFrameworkCore]Microsoft.EntityFrameworkCore.DbContextOptionsBuilder ) skipped:  external base class or interface
+	[GameStore]GameStore.Models.AppDbContext::OnModelCreating[1]( [Microsoft.EntityFrameworkCore]Microsoft.EntityFrameworkCore.ModelBuilder ) skipped:  external base class or interface
+
+	Microsoft.EntityFrameworkCore.DbSet`1<GameStore.Models.Game> [GameStore]Microsoft.EntityFrameworkCore.DbSet`1<GameStore.Models.Game> GameStore.Models.AppDbContext::<Games>k__BackingField -> A
+	Microsoft.EntityFrameworkCore.DbSet`1<GameStore.Models.Key> [GameStore]Microsoft.EntityFrameworkCore.DbSet`1<GameStore.Models.Key> GameStore.Models.AppDbContext::<Keys>k__BackingField -> A
+
+
+	Microsoft.EntityFrameworkCore.DbSet`1<GameStore.Models.Game> [GameStore]Microsoft.EntityFrameworkCore.DbSet`1<GameStore.Models.Game> GameStore.Models.AppDbContext::Games skipped:  KeepPublicApi option in configuration
+	Microsoft.EntityFrameworkCore.DbSet`1<GameStore.Models.Key> [GameStore]Microsoft.EntityFrameworkCore.DbSet`1<GameStore.Models.Key> GameStore.Models.AppDbContext::Keys skipped:  KeepPublicApi option in configuration
+}
+
+[GameStore]GameStore.Models.Key skipped:  KeepPublicApi option in configuration
+{
+
+	[GameStore]GameStore.Models.Key::get_Id[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.Key::set_Id[1]( [System.Runtime]System.Int32 ) skipped:  skip by property
+	[GameStore]GameStore.Models.Key::get_Code[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.Key::set_Code[1]( [System.Runtime]System.String ) skipped:  skip by property
+	[GameStore]GameStore.Models.Key::get_GameId[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.Key::set_GameId[1]( [System.Runtime]System.Int32 ) skipped:  skip by property
+	[GameStore]GameStore.Models.Key::get_Game[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.Key::set_Game[1]( [GameStore]GameStore.Models.Game ) skipped:  skip by property
+	[GameStore]GameStore.Models.Key::get_IsUsed[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.Key::set_IsUsed[1]( [System.Runtime]System.Boolean ) skipped:  skip by property
+	[GameStore]GameStore.Models.Key::.ctor[0]( ) skipped:  special name
+
+	System.Int32 [GameStore]System.Int32 GameStore.Models.Key::<Id>k__BackingField -> A
+	System.String [GameStore]System.String GameStore.Models.Key::<Code>k__BackingField -> A
+	System.Int32 [GameStore]System.Int32 GameStore.Models.Key::<GameId>k__BackingField -> a
+	GameStore.Models.Game [GameStore]GameStore.Models.Game GameStore.Models.Key::<Game>k__BackingField -> A
+	System.Boolean [GameStore]System.Boolean GameStore.Models.Key::<IsUsed>k__BackingField -> A
+
+
+	System.Int32 [GameStore]System.Int32 GameStore.Models.Key::Id skipped:  KeepPublicApi option in configuration
+	System.String [GameStore]System.String GameStore.Models.Key::Code skipped:  KeepPublicApi option in configuration
+	System.Int32 [GameStore]System.Int32 GameStore.Models.Key::GameId skipped:  KeepPublicApi option in configuration
+	GameStore.Models.Game [GameStore]GameStore.Models.Game GameStore.Models.Key::Game skipped:  KeepPublicApi option in configuration
+	System.Boolean [GameStore]System.Boolean GameStore.Models.Key::IsUsed skipped:  KeepPublicApi option in configuration
+}
+
+[GameStore]GameStore.ViewModels.MainViewModel skipped:  KeepPublicApi option in configuration
+{
+	[GameStore]GameStore.ViewModels.MainViewModel::Checkout[1]( [System.Runtime]System.Object ) -> A
+
+	[GameStore]GameStore.ViewModels.MainViewModel::get_Games[0]( ) skipped:  skip by property
+	[GameStore]GameStore.ViewModels.MainViewModel::set_Games[1]( [System.ObjectModel]System.Collections.ObjectModel.ObservableCollection`1<[GameStore]GameStore.Models.Game> ) skipped:  skip by property
+	[GameStore]GameStore.ViewModels.MainViewModel::get_CartItems[0]( ) skipped:  skip by property
+	[GameStore]GameStore.ViewModels.MainViewModel::set_CartItems[1]( [System.ObjectModel]System.Collections.ObjectModel.ObservableCollection`1<[GameStore]GameStore.Models.CartItem> ) skipped:  skip by property
+	[GameStore]GameStore.ViewModels.MainViewModel::get_TotalPrice[0]( ) skipped:  skip by property
+	[GameStore]GameStore.ViewModels.MainViewModel::get_Balance[0]( ) skipped:  skip by property
+	[GameStore]GameStore.ViewModels.MainViewModel::set_Balance[1]( [System.Runtime]System.Decimal ) skipped:  skip by property
+	[GameStore]GameStore.ViewModels.MainViewModel::get_AddToCartCommand[0]( ) skipped:  skip by property
+	[GameStore]GameStore.ViewModels.MainViewModel::get_RemoveFromCartCommand[0]( ) skipped:  skip by property
+	[GameStore]GameStore.ViewModels.MainViewModel::get_CheckoutCommand[0]( ) skipped:  skip by property
+	[GameStore]GameStore.ViewModels.MainViewModel::get_OrderCommand[0]( ) skipped:  skip by property
+	[GameStore]GameStore.ViewModels.MainViewModel::.ctor[0]( ) skipped:  special name
+	[GameStore]GameStore.ViewModels.MainViewModel::AddToCart[1]( [GameStore]GameStore.Models.Game ) skipped:  KeepPublicApi option in configuration
+	[GameStore]GameStore.ViewModels.MainViewModel::RemoveFromCart[1]( [GameStore]GameStore.Models.Game ) skipped:  KeepPublicApi option in configuration
+
+	System.Collections.ObjectModel.ObservableCollection`1<GameStore.Models.Game> [GameStore]System.Collections.ObjectModel.ObservableCollection`1<GameStore.Models.Game> GameStore.ViewModels.MainViewModel::<Games>k__BackingField -> A
+	System.Collections.ObjectModel.ObservableCollection`1<GameStore.Models.CartItem> [GameStore]System.Collections.ObjectModel.ObservableCollection`1<GameStore.Models.CartItem> GameStore.ViewModels.MainViewModel::<CartItems>k__BackingField -> A
+	System.Decimal [GameStore]System.Decimal GameStore.ViewModels.MainViewModel::<Balance>k__BackingField -> A
+	System.Windows.Input.ICommand [GameStore]System.Windows.Input.ICommand GameStore.ViewModels.MainViewModel::<AddToCartCommand>k__BackingField -> A
+	System.Windows.Input.ICommand [GameStore]System.Windows.Input.ICommand GameStore.ViewModels.MainViewModel::<RemoveFromCartCommand>k__BackingField -> a
+	System.Windows.Input.ICommand [GameStore]System.Windows.Input.ICommand GameStore.ViewModels.MainViewModel::<CheckoutCommand>k__BackingField -> B
+	System.Windows.Input.ICommand [GameStore]System.Windows.Input.ICommand GameStore.ViewModels.MainViewModel::<OrderCommand>k__BackingField -> b
+
+
+	System.Collections.ObjectModel.ObservableCollection`1<GameStore.Models.Game> [GameStore]System.Collections.ObjectModel.ObservableCollection`1<GameStore.Models.Game> GameStore.ViewModels.MainViewModel::Games skipped:  KeepPublicApi option in configuration
+	System.Collections.ObjectModel.ObservableCollection`1<GameStore.Models.CartItem> [GameStore]System.Collections.ObjectModel.ObservableCollection`1<GameStore.Models.CartItem> GameStore.ViewModels.MainViewModel::CartItems skipped:  KeepPublicApi option in configuration
+	System.Decimal [GameStore]System.Decimal GameStore.ViewModels.MainViewModel::TotalPrice skipped:  KeepPublicApi option in configuration
+	System.Decimal [GameStore]System.Decimal GameStore.ViewModels.MainViewModel::Balance skipped:  KeepPublicApi option in configuration
+	System.Windows.Input.ICommand [GameStore]System.Windows.Input.ICommand GameStore.ViewModels.MainViewModel::AddToCartCommand skipped:  KeepPublicApi option in configuration
+	System.Windows.Input.ICommand [GameStore]System.Windows.Input.ICommand GameStore.ViewModels.MainViewModel::RemoveFromCartCommand skipped:  KeepPublicApi option in configuration
+	System.Windows.Input.ICommand [GameStore]System.Windows.Input.ICommand GameStore.ViewModels.MainViewModel::CheckoutCommand skipped:  KeepPublicApi option in configuration
+	System.Windows.Input.ICommand [GameStore]System.Windows.Input.ICommand GameStore.ViewModels.MainViewModel::OrderCommand skipped:  KeepPublicApi option in configuration
+}
+
+[GameStore]GameStore.Models.CartItem skipped:  KeepPublicApi option in configuration
+{
+
+	[GameStore]GameStore.Models.CartItem::get_Game[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.CartItem::set_Game[1]( [GameStore]GameStore.Models.Game ) skipped:  skip by property
+	[GameStore]GameStore.Models.CartItem::get_Quantity[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.CartItem::set_Quantity[1]( [System.Runtime]System.Int32 ) skipped:  skip by property
+	[GameStore]GameStore.Models.CartItem::get_TotalPrice[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.CartItem::.ctor[0]( ) skipped:  special name
+
+	System.Int32 [GameStore]System.Int32 GameStore.Models.CartItem::quantity -> A
+	GameStore.Models.Game [GameStore]GameStore.Models.Game GameStore.Models.CartItem::<Game>k__BackingField -> A
+
+
+	GameStore.Models.Game [GameStore]GameStore.Models.Game GameStore.Models.CartItem::Game skipped:  KeepPublicApi option in configuration
+	System.Int32 [GameStore]System.Int32 GameStore.Models.CartItem::Quantity skipped:  KeepPublicApi option in configuration
+	System.Decimal [GameStore]System.Decimal GameStore.Models.CartItem::TotalPrice skipped:  KeepPublicApi option in configuration
+}
+
+[GameStore]GameStore.Models.Game skipped:  KeepPublicApi option in configuration
+{
+
+	[GameStore]GameStore.Models.Game::get_Id[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.Game::set_Id[1]( [System.Runtime]System.Int32 ) skipped:  skip by property
+	[GameStore]GameStore.Models.Game::get_Title[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.Game::set_Title[1]( [System.Runtime]System.String ) skipped:  skip by property
+	[GameStore]GameStore.Models.Game::get_Price[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.Game::set_Price[1]( [System.Runtime]System.Decimal ) skipped:  skip by property
+	[GameStore]GameStore.Models.Game::get_Keys[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.Game::set_Keys[1]( [System.Runtime]System.Collections.Generic.IEnumerable`1<[GameStore]GameStore.Models.Key> ) skipped:  skip by property
+	[GameStore]GameStore.Models.Game::get_ImagePath[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.Game::set_ImagePath[1]( [System.Runtime]System.String ) skipped:  skip by property
+	[GameStore]GameStore.Models.Game::get_KeyCount[0]( ) skipped:  skip by property
+	[GameStore]GameStore.Models.Game::.ctor[0]( ) skipped:  special name
+
+	System.Int32 [GameStore]System.Int32 GameStore.Models.Game::<Id>k__BackingField -> A
+	System.String [GameStore]System.String GameStore.Models.Game::<Title>k__BackingField -> A
+	System.Decimal [GameStore]System.Decimal GameStore.Models.Game::<Price>k__BackingField -> A
+	System.Collections.Generic.IEnumerable`1<GameStore.Models.Key> [GameStore]System.Collections.Generic.IEnumerable`1<GameStore.Models.Key> GameStore.Models.Game::<Keys>k__BackingField -> A
+	System.String [GameStore]System.String GameStore.Models.Game::<ImagePath>k__BackingField -> a
+
+
+	System.Int32 [GameStore]System.Int32 GameStore.Models.Game::Id skipped:  KeepPublicApi option in configuration
+	System.String [GameStore]System.String GameStore.Models.Game::Title skipped:  KeepPublicApi option in configuration
+	System.Decimal [GameStore]System.Decimal GameStore.Models.Game::Price skipped:  KeepPublicApi option in configuration
+	System.Collections.Generic.IEnumerable`1<GameStore.Models.Key> [GameStore]System.Collections.Generic.IEnumerable`1<GameStore.Models.Key> GameStore.Models.Game::Keys skipped:  KeepPublicApi option in configuration
+	System.String [GameStore]System.String GameStore.Models.Game::ImagePath skipped:  KeepPublicApi option in configuration
+	System.Int32 [GameStore]System.Int32 GameStore.Models.Game::KeyCount skipped:  KeepPublicApi option in configuration
+}
+
+[GameStore]Program skipped:  KeepPublicApi option in configuration
+{
+
+	[GameStore]Program::Main[0]( ) skipped:  KeepPublicApi option in configuration
+	[GameStore]Program::.ctor[0]( ) skipped:  special name
+}
+
+Renamed Resources:
+
+
+Skipped Resources:
+
+GameStore.g.resources (no clear new name)

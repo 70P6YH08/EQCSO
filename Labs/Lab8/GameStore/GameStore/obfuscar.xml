@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Obfuscator>
+	<Var name="InPath" value="bin\Debug\net8.0-windows7.0" />
+	<Var name="OutPath" value="..\Release-Obfuscated\Task5\2" />
+	<Var name="KeepPublicApi" value="true"/>
+	<Var name="HidePrivateApi" value="true" />
+	<Var name="HideStrings" value="false" />
+	<Module file="$(InPath)\GameStore.dll"/>
+</Obfuscator>
