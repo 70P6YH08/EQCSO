@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2n4R1Y+cMZc=",
+  "dgSpecHash": "T6Zx3SQ4gKU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\221\\Students\\ispp-31\\ОКФКС\\Labs\\Lab7\\LabWork7\\LabWork7\\LabWork7.csproj",
+  "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab7\\LabWork7\\LabWork7\\LabWork7.csproj",
   "expectedPackageFiles": [
-    "C:\\NugetCache\\Packages\\microsoft.codeanalysis.analyzers\\5.9.0-1.26328.17\\microsoft.codeanalysis.analyzers.5.9.0-1.26328.17.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\microsoft.codeanalysis.common\\5.9.0\\microsoft.codeanalysis.common.5.9.0.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\microsoft.codeanalysis.csharp\\5.9.0\\microsoft.codeanalysis.csharp.5.9.0.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\microsoft.codeanalysis.csharp.scripting\\5.9.0\\microsoft.codeanalysis.csharp.scripting.5.9.0.nupkg.sha512",
-    "C:\\NugetCache\\Packages\\microsoft.codeanalysis.scripting.common\\5.9.0\\microsoft.codeanalysis.scripting.common.5.9.0.nupkg.sha512"
+    "C:\\Users\\gorbu\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\5.9.0-1.26328.17\\microsoft.codeanalysis.analyzers.5.9.0-1.26328.17.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\microsoft.codeanalysis.common\\5.9.0\\microsoft.codeanalysis.common.5.9.0.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\microsoft.codeanalysis.csharp\\5.9.0\\microsoft.codeanalysis.csharp.5.9.0.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\microsoft.codeanalysis.csharp.scripting\\5.9.0\\microsoft.codeanalysis.csharp.scripting.5.9.0.nupkg.sha512",
+    "C:\\Users\\gorbu\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\5.9.0\\microsoft.codeanalysis.scripting.common.5.9.0.nupkg.sha512"
   ],
   "logs": []
 }

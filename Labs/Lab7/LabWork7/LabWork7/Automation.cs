@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 using System.Windows;
 
@@ -15,7 +16,7 @@ namespace LabWork7
         public void PrintCount()
             => MessageBox.Show($"{_count}");
         public void PrintHello(string name)
-            => Console.WriteLine($"Привет, {name}");
+            => Debug.WriteLine($"Привет, {name}");
 
         public void Message(string message)
         {

@@ -3,6 +3,7 @@ using Microsoft.CodeAnalysis.Scripting;
 using System.IO;
 using System.IO.Pipes;
 using System.Text;
+using System.Windows;
 
 namespace LabWork7
 {
@@ -14,7 +15,14 @@ namespace LabWork7
 
         public async Task ExecuteAsync(string code)
         {
-            await CSharpScript.EvaluateAsync(code, scriptOptions, new Automation());
+            try
+            {
+                await CSharpScript.EvaluateAsync(code, scriptOptions, new Automation());
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
 
         public async Task Run()

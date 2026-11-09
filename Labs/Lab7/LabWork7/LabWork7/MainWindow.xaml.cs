@@ -13,7 +13,7 @@ namespace LabWork7
         public MainWindow()
         {
             InitializeComponent();
-            var task = new Task(async () => { await _scriptingHost.Run(); });
+            Task.Run(async () => { await _scriptingHost.Run(); });
         }
 
         public MainWindow(ScriptingHost scriptingHost)
