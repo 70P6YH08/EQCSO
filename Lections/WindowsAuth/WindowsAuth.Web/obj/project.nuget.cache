@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uhbPKwRhqeE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\221\\Students\\ispp-31\\ОКФКС\\Lections\\WindowsAuth\\WindowsAuth.Web\\WindowsAuth.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\microsoft.aspnetcore.authentication.negotiate\\10.0.14\\microsoft.aspnetcore.authentication.negotiate.10.0.14.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.directoryservices.protocols\\10.0.14\\system.directoryservices.protocols.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

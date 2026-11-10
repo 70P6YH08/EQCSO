@@ -1,0 +1,15 @@
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\bin\Debug\net10.0-windows\WindowsAuth.exe
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\bin\Debug\net10.0-windows\WindowsAuth.deps.json
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\bin\Debug\net10.0-windows\WindowsAuth.runtimeconfig.json
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\bin\Debug\net10.0-windows\WindowsAuth.dll
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\bin\Debug\net10.0-windows\WindowsAuth.pdb
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\obj\Debug\net10.0-windows\WindowsAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\obj\Debug\net10.0-windows\WindowsAuth.AssemblyInfoInputs.cache
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\obj\Debug\net10.0-windows\WindowsAuth.AssemblyInfo.cs
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\obj\Debug\net10.0-windows\WindowsAuth.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\obj\Debug\net10.0-windows\WindowsAuth.sourcelink.json
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\obj\Debug\net10.0-windows\WindowsAuth.dll
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\obj\Debug\net10.0-windows\refint\WindowsAuth.dll
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\obj\Debug\net10.0-windows\WindowsAuth.pdb
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\obj\Debug\net10.0-windows\WindowsAuth.genruntimeconfig.cache
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\WindowsAuth\WindowsAuth\obj\Debug\net10.0-windows\ref\WindowsAuth.dll
