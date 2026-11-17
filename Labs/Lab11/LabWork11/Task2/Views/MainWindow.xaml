@@ -1,0 +1,18 @@
+﻿<Window x:Class="Task2.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task2.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" FontSize="30" FontWeight="Bold" Foreground="#934" BorderBrush="Bisque" BorderThickness="10">
+    <Grid Background="Beige">
+        <StackPanel Grid.Column="0" VerticalAlignment="Center" Margin="20 10 20 10" HorizontalAlignment="Center" Width="400">
+            <TextBlock Text="Логин"/>
+            <TextBox x:Name="loginTextBox" Margin="0 0 0 20"/>
+            <TextBlock Text="Пароль"/>
+            <TextBox x:Name="passwordTextBox" Margin="0 0 0 20"/>
+            <Button x:Name="authorizationButton" Content="Войти" Foreground="#934" Background="#ccf" Click="authorizationButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

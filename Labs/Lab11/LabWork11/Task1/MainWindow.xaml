@@ -1,0 +1,34 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" FontSize="20">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+            <TextBlock Text="Имя пользователя: "/>
+            <TextBox x:Name="userNameTextBox" Margin="0 0 0 20"/>
+            <TextBlock Text="Домен"/>
+            <TextBox x:Name="domaineTextBox" Margin="0 0 0 20"/>
+            <TextBlock Text="Аутентифицирован"/>
+            <TextBox x:Name="isAuthenticatedTextBox" Margin="0 0 0 20"/>
+            <TextBlock Text="Пользователь"/>
+            <TextBox x:Name="isUserTextBox" Margin="0 0 0 20"/>
+            <TextBlock Text="Админ"/>
+            <TextBox x:Name="isAdminTextBox" Margin="0 0 0 20"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <Button Name="OpenSystemFolderButton1" Content="Действие 1" Margin="20 10 20 10" Click="OpenSystemFolderButton1_Click"/>
+            <Button Name="OpenSystemFolderButton2" Content="Действие 2" Margin="20 10 20 10" Click="OpenSystemFolderButton2_Click"/>
+            <Button Name="OpenSystemFolderButton3" Content="Действие 3" Margin="20 10 20 10" Click="OpenSystemFolderButton3_Click"/>
+            <Button Name="OpenSystemFolderButton4" Content="Действие 4" Margin="20 10 20 10" Click="OpenSystemFolderButton4_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

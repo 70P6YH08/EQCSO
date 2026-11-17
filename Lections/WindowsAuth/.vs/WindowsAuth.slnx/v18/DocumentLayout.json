@@ -46,7 +46,9 @@
               "RelativeToolTip": "WindowsAuth.Web\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-10T08:36:43.012Z"
+              "WhenOpened": "2026-11-10T08:36:43.012Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
@@ -56,9 +58,11 @@
               "RelativeDocumentMoniker": "WindowsAuth\\Program.cs",
               "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Lections\\WindowsAuth\\WindowsAuth\\Program.cs",
               "RelativeToolTip": "WindowsAuth\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T08:34:01.084Z"
+              "WhenOpened": "2026-11-10T08:34:01.084Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
@@ -68,10 +72,11 @@
               "RelativeDocumentMoniker": "WindowsAuth.Web\\Program.cs",
               "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Lections\\WindowsAuth\\WindowsAuth.Web\\Program.cs",
               "RelativeToolTip": "WindowsAuth.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-10T08:29:57.909Z",
-              "EditorCaption": ""
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             }
           ]
         }

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HashPassword/HashPassword.csproj" Id="35ac6346-7486-40d4-80b9-02756d130f97" />
+  <Project Path="Task1/Task1.csproj" />
+  <Project Path="Task2/Task2.csproj" Id="65b907f0-9f86-49e3-b8b9-72df7a37ca2e" />
+</Solution>

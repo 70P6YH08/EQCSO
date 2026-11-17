@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindowsAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f74ca984567c0944db686951e264f020a81e712")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4321f68ee30fbf649263ec6c6b02443daf48334")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindowsAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindowsAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VUzH+1w9h9E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\221\\Students\\ispp-31\\ОКФКС\\Labs\\Lab11\\LabWork11\\HashPassword\\HashPassword.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
