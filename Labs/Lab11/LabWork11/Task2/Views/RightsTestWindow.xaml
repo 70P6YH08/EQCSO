@@ -1,0 +1,33 @@
+﻿<Window x:Class="Task2.Views.RightsTestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task2.Views"
+        mc:Ignorable="d"
+        x:Name="window"
+        Title="RightsTestWindow" Height="450" Width="800" FontSize="30" FontWeight="Bold" Foreground="#934" BorderBrush="Bisque" BorderThickness="10">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#ccf" />
+            <Setter Property="Foreground" Value="#934" />
+            <Setter Property="Margin" Value="0 5 0 10" />
+            <Setter Property="Height" Value="50" />
+        </Style>
+    </Window.Resources>
+    <Grid Background="Beige">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="600"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" VerticalAlignment="Center" Margin="20 10 20 10" HorizontalAlignment="Center" Width="400">
+            <Button x:Name="rule1Button" Content="Право 1" Click="Rule1Button_Click"/>
+            <Button x:Name="rule2Button" Content="Право 2" Click="Rule2Button_Click"/>
+            <Button x:Name="rule3Button" Content="Право 3" Click="Rule3Button_Click"/>
+            <Button x:Name="rule4Button" Content="Право 4" Click="Rule4Button_Click"/>
+            <Button x:Name="rule5Button" Content="Право 5" Click="Rule5Button_Click"/>
+            <Button x:Name="rule6Button" Content="Право 6" Click="Rule6Button_Click"/>
+        </StackPanel>
+        <Button x:Name="ExitButton" Grid.Column="1" Content="Выйти" VerticalAlignment="Top" Click="ExitButton_Click"/>
+    </Grid>
+</Window>

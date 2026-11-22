@@ -9,20 +9,23 @@ namespace Task2.Services
 {
     public class UserService(AppDbContext appDbContext, PasswordService passwordService)
     {
-        public async Task<User>? GetUserDataAsync(string login, string password)
+        public async Task<UserDto>? GetUserDataAsync(string login, string password)
         {
-            var user = await appDbContext.Users.FirstOrDefaultAsync(u => u.Login == login);
-
-            if (user is null)
-                throw new Exception("Такого пользователя не существует");
-
+            var user = await appDbContext.Users.FirstOrDefaultAsync(u => u.Login == login)
+                ?? throw new Exception("Такого пользователя не существует");
 
             var isPasswordValid = passwordService.VerifyPassword(password, user.PasswordHash);
 
             if(!isPasswordValid)
                 throw new Exception("Неверный пароль");
 
-            return user;
+            return new UserDto
+            {
+                Age = user.Age,
+                Login = user.Login,
+                Name = user.Name,
+                Role = user.Role.Name
+            };
         }
     }
 }

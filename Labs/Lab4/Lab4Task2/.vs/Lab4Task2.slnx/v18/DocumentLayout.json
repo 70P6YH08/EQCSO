@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab4\\Lab4Task2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E8747A-7873-F1BA-CE4E-4D9BF94361BA}|Lab4Task3\\Lab4Task3.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\eqcso\\labs\\lab4\\lab4task2\\lab4task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E8747A-7873-F1BA-CE4E-4D9BF94361BA}|Lab4Task3\\Lab4Task3.csproj|solutionrelative:lab4task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,17 +44,8 @@
               "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab4\\Lab4Task2\\Lab4Task3\\Program.cs",
-              "RelativeDocumentMoniker": "Lab4Task3\\Program.cs",
-              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab4\\Lab4Task2\\Lab4Task3\\Program.cs",
-              "RelativeToolTip": "Lab4Task3\\Program.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAQwHMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T13:53:35.764Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

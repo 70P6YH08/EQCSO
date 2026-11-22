@@ -9,6 +9,9 @@ namespace Task2
     /// </summary>
     public partial class App : Application
     {
+        private readonly IServiceProvider _serviceProvider;
+
+        protected override 
     }
 
 }

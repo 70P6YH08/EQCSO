@@ -19,30 +19,45 @@ namespace Task2.Views
     /// </summary>
     public partial class MainWindow : Window
     {
-        private UserService _userService;
-        private string userRole = "User";
+        private readonly UserService _userService;
+
+        private MainWindow? thisWindow;
         public MainWindow(UserService userService)
         {
             InitializeComponent();
             _userService = userService;
         }
 
-        private async Task authorizationButton_Click(object sender, RoutedEventArgs e)
+        private async void AuthorizationButton_Click(object sender, RoutedEventArgs e)
         {
             if (String.IsNullOrWhiteSpace(loginTextBox.Text))
+            {
                 MessageBox.Show("Логин пуст", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
 
             if (String.IsNullOrWhiteSpace(passwordTextBox.Text))
+            {
                 MessageBox.Show("Пароль пуст", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
 
             var user = await _userService.GetUserDataAsync(loginTextBox.Text, passwordTextBox.Text);
 
             if(user is null)
+            {
                 MessageBox.Show("Не удалось авторизироваться!", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
 
             MessageBox.Show("Вы авторизировались!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
-            RulesTestWindow rulesTestWindow = new();
-            rulesTestWindow.Show();
+
+            //thisWindow = new MainWindow(_userService);
+
+            RightsTestWindow rightsTestWindow = new(user);
+
+            rightsTestWindow.Show();
+            this.Close();
         }
     }
 }

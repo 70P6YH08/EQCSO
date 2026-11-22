@@ -12,7 +12,7 @@
             <TextBox x:Name="loginTextBox" Margin="0 0 0 20"/>
             <TextBlock Text="Пароль"/>
             <TextBox x:Name="passwordTextBox" Margin="0 0 0 20"/>
-            <Button x:Name="authorizationButton" Content="Войти" Foreground="#934" Background="#ccf" Click="authorizationButton_Click"/>
+            <Button x:Name="authorizationButton" Content="Войти" Foreground="#934" Background="#ccf" Click="AuthorizationButton_Click"/>
         </StackPanel>
     </Grid>
 </Window>
