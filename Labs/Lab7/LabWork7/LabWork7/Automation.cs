@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
 using System.Windows;
+using Task1;
 
 namespace LabWork7
 {
-    public class Automation
+    public class Automation(EventService eventService)
     {
         private static int _count = 0;
 
@@ -19,8 +20,14 @@ namespace LabWork7
             => Debug.WriteLine($"Привет, {name}");
 
         public void Message(string message)
-        {
-            MessageBox.Show(message);
-        }
+            => MessageBox.Show(message);
+        public List<EventModel> GetEvents()
+            => eventService.GetEvents();
+        public void AddEvent(EventModel eventModel)
+            => eventService.AddEvent(eventModel);
+        public void UpdateEvent(UpdateEventDto updateEventDto)
+            => eventService.UpdateEvent(updateEventDto);
+        public void DeleteEvent(string eventName)
+            => eventService.DeleteEvent(eventName);
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T6Zx3SQ4gKU=",
+  "dgSpecHash": "cvEIGTfvLzk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab7\\LabWork7\\LabWork7\\LabWork7.csproj",
+  "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab7\\LabWork7\\LabWork7\\Task1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gorbu\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\5.9.0-1.26328.17\\microsoft.codeanalysis.analyzers.5.9.0-1.26328.17.nupkg.sha512",
     "C:\\Users\\gorbu\\.nuget\\packages\\microsoft.codeanalysis.common\\5.9.0\\microsoft.codeanalysis.common.5.9.0.nupkg.sha512",

@@ -5,9 +5,62 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LabWork7"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <StackPanel>
-        <TextBox x:Name="codeTextBox" Height="100" FontSize="20"/>
-        <Button Content="Отправить" Height="100" FontSize="30" Width="200" Click="Button_Click"/>
-    </StackPanel>
+        Title="MainWindow" Height="700" Width="800" BorderThickness="5" BorderBrush="#345" FontFamily="Roboto" FontWeight="Bold">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="BorderBrush" Value="#345"/>
+            <Setter Property="BorderThickness" Value="3"/>
+            <Setter Property="Background" Value="#aea"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="BorderBrush" Value="#345"/>
+            <Setter Property="BorderThickness" Value="3"/>
+        </Style>
+        <Style TargetType="DataGrid">
+        </Style>
+    </Window.Resources>
+    <Grid Margin="5 5 5 5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <TextBlock Text="Task 1-2" TextAlignment="Center" FontSize="30"/>
+            <TextBox x:Name="codeTextBox" Height="50" FontSize="20"/>
+            <Button Content="Отправить" Height="50" FontSize="30" Width="200" Click="Button_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="Task 3" TextAlignment="Center" FontSize="30"/>
+            <DataGrid x:Name="eventsDataGrid" AutoGenerateColumns="False" Height="200">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Имя" Binding="{Binding Name}"/>
+                    <DataGridTextColumn Header="Описание" Binding="{Binding Description}"/>
+                    <DataGridTextColumn Header="Время начала выполнения" Binding="{Binding StartDateTime}"/>
+                    <DataGridTextColumn Header="Скрипт" Binding="{Binding Script}"/>
+                    <DataGridTextColumn Header="Статус" Binding="{Binding Status}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <StackPanel>
+                <DockPanel Margin="5 5 5 5">
+                    <TextBlock Text="Название:" Margin="0 3 10 0"/>
+                    <TextBox x:Name="EventNameTextBox"/>
+                </DockPanel>
+                <DockPanel Margin="5 5 5 5">
+                    <TextBlock Text="Описание:" Margin="0 3 10 0"/>
+                    <TextBox x:Name="EventDescriptionTextBox"/>
+                </DockPanel>
+                <DockPanel Margin="5 5 5 5">
+                    <TextBlock Text="Дата начала:" Margin="0 5 10 0"/>
+                    <DatePicker x:Name="EventStartDatePicker" HorizontalAlignment="Left"/>
+                    <TextBlock Text="Время начала:" Margin="30 5 10 0"/>
+                    <TextBox x:Name="EventStartTimeTextBox" HorizontalAlignment="Left" Width="100"/>
+                </DockPanel>
+                <DockPanel Margin="5 5 5 5">
+                    <TextBlock Text="Скрипт:" Margin="0 3 10 0"/>
+                    <TextBox x:Name="EventScriptTextBox" MinLines="5"/>
+                </DockPanel>
+                <Button x:Name="AddEventButton" Content="Добавить" Height="50" FontSize="20" Width="150" Click="AddEventButton_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
 </Window>

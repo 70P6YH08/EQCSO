@@ -539,9 +539,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab7\\LabWork7\\LabWork7\\LabWork7.csproj",
-      "projectName": "LabWork7",
-      "projectPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab7\\LabWork7\\LabWork7\\LabWork7.csproj",
+      "projectUniqueName": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab7\\LabWork7\\LabWork7\\Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab7\\LabWork7\\LabWork7\\Task1.csproj",
       "packagesPath": "C:\\Users\\gorbu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab7\\LabWork7\\LabWork7\\obj\\",
       "projectStyle": "PackageReference",

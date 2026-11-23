@@ -1,15 +1,17 @@
 ﻿using Microsoft.CodeAnalysis.CSharp.Scripting;
 using Microsoft.CodeAnalysis.Scripting;
+using System.Diagnostics;
 using System.IO;
 using System.IO.Pipes;
 using System.Text;
 using System.Windows;
+using Task1;
 
 namespace LabWork7
 {
-    public class ScriptingHost
+    public class ScriptingHost(EventService eventService)
     {
-        private ScriptOptions scriptOptions = ScriptOptions.Default
+        private ScriptOptions _scriptOptions = ScriptOptions.Default
             .WithReferences(AppDomain.CurrentDomain.GetAssemblies())
             .WithImports("System", "System.Collections.Generic", "System.Linq");
 
@@ -17,7 +19,7 @@ namespace LabWork7
         {
             try
             {
-                await CSharpScript.EvaluateAsync(code, scriptOptions, new Automation());
+                await CSharpScript.EvaluateAsync(code, _scriptOptions, new Automation(eventService));
             }
             catch (Exception ex)
             {
@@ -39,18 +41,18 @@ namespace LabWork7
 
         private async Task HandleClient(NamedPipeServerStream server)
         {
-            using var reader = new StreamReader(server);
-            using var writer = new StreamWriter(server, Encoding.UTF8, 8192, false);
-            writer.AutoFlush = true;
-
-            while (true)
+            using (var reader = new StreamReader(server))
             {
-                string line = await reader.ReadLineAsync();
-                if (line == null) break; // Клиент закрыл соединение
+                string? line;
+                while (true)
+                {
+                    line = await reader.ReadLineAsync();
 
-                Console.WriteLine("Received: " + line);
+                    if (line == null)
+                        break;
 
-                await writer.WriteLineAsync("Echo: " + line);
+                    await ExecuteAsync(line);
+                }
             }
         }
     }
