@@ -1,0 +1,7 @@
+C:\Users\221\Students\ispp-31\ОКФКС\Labs\Lab12\AppWinForms\AppWinForms\obj\Debug\net10.0-windows\AppWinForms.MAinForms.resources
+C:\Users\221\Students\ispp-31\ОКФКС\Labs\Lab12\AppWinForms\AppWinForms\obj\Debug\net10.0-windows\AppWinForms.csproj.GenerateResource.cache
+C:\Users\221\Students\ispp-31\ОКФКС\Labs\Lab12\AppWinForms\AppWinForms\obj\Debug\net10.0-windows\AppWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ispp-31\ОКФКС\Labs\Lab12\AppWinForms\AppWinForms\obj\Debug\net10.0-windows\AppWinForms.AssemblyInfoInputs.cache
+C:\Users\221\Students\ispp-31\ОКФКС\Labs\Lab12\AppWinForms\AppWinForms\obj\Debug\net10.0-windows\AppWinForms.AssemblyInfo.cs
+C:\Users\221\Students\ispp-31\ОКФКС\Labs\Lab12\AppWinForms\AppWinForms\obj\Debug\net10.0-windows\AppWinForms.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ispp-31\ОКФКС\Labs\Lab12\AppWinForms\AppWinForms\obj\Debug\net10.0-windows\AppWinForms.sourcelink.json

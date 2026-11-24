@@ -35,7 +35,7 @@ namespace Task2.Views
                 MessageBox.Show("Логин пуст", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 return;
             }
-
+            
             if (String.IsNullOrWhiteSpace(passwordTextBox.Text))
             {
                 MessageBox.Show("Пароль пуст", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
@@ -55,9 +55,7 @@ namespace Task2.Views
             //thisWindow = new MainWindow(_userService);
 
             RightsTestWindow rightsTestWindow = new(user);
-
-            rightsTestWindow.Show();
-            this.Close();
+            rightsTestWindow.ShowDialog();
         }
     }
 }

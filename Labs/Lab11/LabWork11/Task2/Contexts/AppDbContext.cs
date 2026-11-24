@@ -11,6 +11,11 @@ namespace Task2.Contexts
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
 
+        public AppDbContext()
+        {
+            Database.EnsureCreated();
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlite("Data Source=users.db");

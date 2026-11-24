@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "p5A1PWz5rbU=",
+  "dgSpecHash": "VUzH+1w9h9E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab11\\LabWork11\\HashPassword\\HashPassword.csproj",
+  "projectFilePath": "C:\\Users\\221\\Students\\ispp-31\\ОКФКС\\Labs\\Lab11\\LabWork11\\HashPassword\\HashPassword.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gorbu\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512"
+    "C:\\NugetCache\\Packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512"
   ],
   "logs": []
 }

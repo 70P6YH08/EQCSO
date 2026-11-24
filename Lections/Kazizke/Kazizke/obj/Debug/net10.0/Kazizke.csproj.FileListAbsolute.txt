@@ -1,0 +1,17 @@
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\bin\Debug\net10.0\Kazizke.exe
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\bin\Debug\net10.0\Kazizke.deps.json
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\bin\Debug\net10.0\Kazizke.runtimeconfig.json
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\bin\Debug\net10.0\Kazizke.runtimeconfig.dev.json
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\bin\Debug\net10.0\Kazizke.dll
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\bin\Debug\net10.0\Kazizke.pdb
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\obj\Debug\net10.0\Kazizke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\obj\Debug\net10.0\Kazizke.AssemblyInfoInputs.cache
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\obj\Debug\net10.0\Kazizke.AssemblyInfo.cs
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\obj\Debug\net10.0\Kazizke.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\obj\Debug\net10.0\Kazizke.sourcelink.json
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\obj\Debug\net10.0\Kazizke.dll
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\obj\Debug\net10.0\refint\Kazizke.dll
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\obj\Debug\net10.0\Kazizke.pdb
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\obj\Debug\net10.0\Kazizke.genruntimeconfig.cache
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\obj\Debug\net10.0\ref\Kazizke.dll
+C:\Users\221\Students\ispp-31\ОКФКС\Lections\Kazizke\Kazizke\obj\Debug\net10.0\Kazizke.csproj.Up2Date
