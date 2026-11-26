@@ -10,7 +10,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-
 var jwtOptionsSection = builder.Configuration.GetRequiredSection("Jwt");
 
 var issuer = jwtOptionsSection["Issuer"];
@@ -19,7 +18,7 @@ var keyStr = jwtOptionsSection["Key"];
 var signingKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(keyStr));
 
 builder.Services.AddAuthorization();
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme) //CookieAuthenticationDefaults
     .AddJwtBearer(options =>
     {
         options.TokenValidationParameters = new TokenValidationParameters

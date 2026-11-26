@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab12\\AppWinForms\\",
+  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab12\\AppWinForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21B6AA38-273F-4F61-A2D8-3686BA0060F7}|AppWinForms\\AppWinForms.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab12\\appwinforms\\appwinforms\\mainforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21B6AA38-273F-4F61-A2D8-3686BA0060F7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\mainforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D8E277E-D573-09D8-0164-2D0349791A09}|AppWinForms\\AppWinForms.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\eqcso\\labs\\lab12\\appwinforms\\appwinforms\\mainforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8E277E-D573-09D8-0164-2D0349791A09}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\mainforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21B6AA38-273F-4F61-A2D8-3686BA0060F7}|AppWinForms\\AppWinForms.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab12\\appwinforms\\appwinforms\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8D8E277E-D573-09D8-0164-2D0349791A09}|AppWinForms\\AppWinForms.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\eqcso\\labs\\lab12\\appwinforms\\appwinforms\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8E277E-D573-09D8-0164-2D0349791A09}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B6AA38-273F-4F61-A2D8-3686BA0060F7}|AppWinForms\\AppWinForms.csproj|C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab12\\AppWinForms\\appwinforms\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{21B6AA38-273F-4F61-A2D8-3686BA0060F7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21B6AA38-273F-4F61-A2D8-3686BA0060F7}|AppWinForms\\AppWinForms.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab12\\appwinforms\\appwinforms\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21B6AA38-273F-4F61-A2D8-3686BA0060F7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D8E277E-D573-09D8-0164-2D0349791A09}|AppWinForms\\AppWinForms.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\eqcso\\labs\\lab12\\appwinforms\\appwinforms\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8E277E-D573-09D8-0164-2D0349791A09}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,60 +26,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MAinForms.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.Designer.cs",
-              "RelativeDocumentMoniker": "AppWinForms\\MAinForms.Designer.cs",
-              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.Designer.cs",
-              "RelativeToolTip": "AppWinForms\\MAinForms.Designer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T05:50:06.16Z",
-              "EditorCaption": "",
-              "OwnerCaption": "%2"
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MAinForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.cs",
               "RelativeDocumentMoniker": "AppWinForms\\MAinForms.cs",
-              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "AppWinForms\\MAinForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T05:37:42.528Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "OwnerCaption": "%2"
+              "WhenOpened": "2026-11-26T20:16:19.616Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MAinForms.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.Designer.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\MAinForms.Designer.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.Designer.cs",
+              "RelativeToolTip": "AppWinForms\\MAinForms.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T05:50:06.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MAinForms.cs",
-              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.cs",
+              "Title": "MAinForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.cs",
               "RelativeDocumentMoniker": "AppWinForms\\MAinForms.cs",
-              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T05:37:42.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MAinForms.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\MAinForms.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\EQCSO\\Labs\\Lab12\\AppWinForms\\AppWinForms\\MAinForms.cs",
               "RelativeToolTip": "AppWinForms\\MAinForms.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T05:41:27.877Z",
-              "EditorCaption": "",
-              "OwnerCaption": "%2"
+              "WhenOpened": "2026-11-23T05:41:27.877Z"
             }
           ]
         }
