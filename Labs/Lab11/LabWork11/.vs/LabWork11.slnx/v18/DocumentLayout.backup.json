@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab11\\labwork11\\task2\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|solutionrelative:task2\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab11\\labwork11\\task2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|solutionrelative:task2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab11\\labwork11\\task2\\views\\rightstestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|solutionrelative:task2\\views\\rightstestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab11\\labwork11\\task2\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|solutionrelative:task2\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab11\\labwork11\\task2\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|solutionrelative:task2\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab11\\labwork11\\task2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|solutionrelative:task2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab11\\labwork11\\task2\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|solutionrelative:task2\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|c:\\users\\221\\students\\ispp-31\\\u043E\u043A\u0444\u043A\u0441\\labs\\lab11\\labwork11\\task2\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B907F0-9F86-49E3-B8B9-72DF7A37CA2E}|Task2\\Task2.csproj|solutionrelative:task2\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 267,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +54,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "Task2\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Models\\UserDto.cs",
+              "RelativeToolTip": "Task2\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T06:16:08.855Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Task2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Models\\User.cs",
+              "RelativeToolTip": "Task2\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T06:07:17.195Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Task2\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Models\\Role.cs",
+              "RelativeToolTip": "Task2\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T06:07:16.011Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task2\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task2\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIA4wCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T08:55:07.642Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Task2\\Contexts\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Contexts\\AppDbContext.cs",
               "RelativeToolTip": "Task2\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T08:16:27.967Z",
               "EditorCaption": "",
@@ -52,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RightsTestWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Views\\RightsTestWindow.xaml.cs",
               "RelativeDocumentMoniker": "Task2\\Views\\RightsTestWindow.xaml.cs",
@@ -61,17 +133,18 @@
               "ViewState": "AgIAADgAAAAAAAAAAAAMwEcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T08:11:21.064Z",
+              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Task2\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\221\\Students\\ispp-31\\\u041E\u041A\u0424\u041A\u0421\\Labs\\Lab11\\LabWork11\\Task2\\Services\\UserService.cs",
               "RelativeToolTip": "Task2\\Services\\UserService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T08:04:04.602Z",
               "EditorCaption": "",
